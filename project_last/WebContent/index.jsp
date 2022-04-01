@@ -11,7 +11,7 @@
 	<title></title>
 </head>
 <body class="pt-3 px-3">
-	<a class="btn btn-primary" href="/bomlistView.do">bombombom~</a>
+	<a class="btn btn-primary" href="/bomlistView.do">bombombom~!!!</a>
 	<a class="btn btn-primary" href="/IVlistView.do">재고</a>
 	<a class="btn btn-primary" href="/saleslistView.do">판매</a>
 	<hr>
